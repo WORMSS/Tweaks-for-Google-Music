@@ -1,0 +1,91 @@
+{
+	"ext_name": {
+		"message": "Modifiche per Google Music",
+		"desctiption": "Extension Name"
+	},
+	
+	"ext_description": {
+		"message": "Modifica l'intrfaccia di Google Music",
+		"description": "Extension Description"
+	},
+	
+	"cs_explicit": {
+		"message": "Esplicito", 
+		"description": "Expanded Explicit"
+	},
+	
+	"cs_explicit_abbr": {
+		"message": "E",
+		"description": "Collapsed Explicit"
+	},
+	
+	"pa_name": {
+		"message": "Modifiche per Google Music",
+		"description": "Page Action Name"
+	},
+	
+	"pa_sect_general" : {
+		"message": "Principali",
+		"desctiption": "Section title for General Options"
+	},
+	
+	"pa_check_prevent_close": {
+		"message": "Evita Chiusura Accidentale",
+		"description": "Label for prevent accidental close checkbox"
+	},
+	
+	"pa_check_explicit": {
+		"message": "Riduci Etichetta Esplicito",
+		"description": "Label for collapsing explicit checkbox"
+	},
+	
+	"pa_check_hide_upload": {
+		"message": "Nascondi Bottone Aggiorna",
+		"description": "Label for hiding the upload button checkbox"
+	},
+	
+	"pa_check_queue_details": {
+		"message": "Nascondi Dettagli Playlist",
+		"description": "Label for hiding queue details checkbox"
+	},
+	
+	"pa_sect_queue_artist": {
+		"message": "Lista Artisti",
+		"description": "Section title for queue artist"
+	},
+	
+	"pa_radio_queue_artist_show": {
+		"message": "Mostra",
+		"description": "Label for showing queue artist"
+	},
+	
+	"pa_radio_queue_artist_hide": {
+		"message": "Nascondi",
+		"description": "Label for hiding queue artist"
+	},
+	
+	"pa_radio_queue_artist_minimize": {
+		"message": "Riduci",
+		"description": "Label for minimizing queue artist"
+	},
+	
+	"pa_sect_queue_album": {
+		"message": "Lista Album",
+		"description": "Section title for queue artist"
+	},
+	
+	"pa_radio_queue_album_show": {
+		"message": "Mostra",
+		"description": "Label for showing queue album"
+	},
+	
+	"pa_radio_queue_album_hide": {
+		"message": "Nascondi",
+		"description": "Label for hiding queue album"
+	},
+	
+	"pa_radio_queue_album_minimize": {
+		"message": "Riduci",
+		"description": "Label for minimizing queue album"
+	}
+}

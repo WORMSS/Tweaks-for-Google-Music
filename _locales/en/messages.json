@@ -1,0 +1,105 @@
+{
+	"ext_name": {
+		"message": "Tweaks for Google Music",
+		"desctiption": "Extension Name"
+	},
+	
+	"ext_description": {
+		"message": "Tweaks parts of the UI for Google Music",
+		"description": "Extension Description"
+	}, 
+	
+	"cs_explicit": {
+		"message": "Explicit", 
+		"description": "Expanded Explicit"
+	},
+	
+	"cs_explicit_abbr": {
+		"message": "E",
+		"description": "Collapsed Explicit"
+	},
+	
+	"pa_name": {
+		"message": "Tweaks for Google Music",
+		"description": "Page Action Name"
+	},
+	
+	"pa_sect_general" : {
+		"message": "Main Options",
+		"description": "Section title for General Options"
+	},
+	
+	"pa_check_prevent_close": {
+		"message": "Prevent Accidental Close",
+		"description": "Label for prevent accidental close checkbox"
+	},
+	
+	"pa_check_explicit": {
+		"message": "Collapse Explicit",
+		"description": "Label for collapsing explicit checkbox"
+	},	
+	"pa_check_hide_upload": {
+		"message": "Hide Upload Button",
+		"description": "Label for hiding the upload button checkbox"
+	},
+	
+	"pa_check_queue_details": {
+		"message": "Hide Queue Details",
+		"description": "Label for hiding queue details checkbox"
+	},
+	
+	"pa_sect_queue_artist": {
+		"message": "Queue Artist",
+		"description": "Section title for queue artist"
+	},
+	
+	"pa_radio_queue_artist_show": {
+		"message": "Show",
+		"description": "Label for showing queue artist"
+	},
+	
+	"pa_radio_queue_artist_hide": {
+		"message": "Hide",
+		"description": "Label for hiding queue artist"
+	},
+	
+	"pa_radio_queue_artist_minimize": {
+		"message": "Minimize",
+		"description": "Label for minimizing queue artist"
+	},
+	
+	"pa_sect_queue_album": {
+		"message": "Queue Album",
+		"description": "Section title for queue artist"
+	},
+	
+	"pa_radio_queue_album_show": {
+		"message": "Show",
+		"description": "Label for showing queue album"
+	},
+	
+	"pa_radio_queue_album_hide": {
+		"message": "Hide",
+		"description": "Label for hiding queue album"
+	},
+	
+	"pa_radio_queue_album_minimize": {
+		"message": "Minimize",
+		"description": "Label for minimizing queue album"
+	},
+	
+	"pa_check_google_wrapper": {
+		"message": "Hide Google Wrapper",
+		"description": "Label for hiding Google Wrapper"
+	},
+	
+	"experimental": {
+		"message": "Experimental",
+		"description": "Experimental"
+	},
+	
+	"google_wrapper_warn": {
+		"message": "Bug Fix: Need to resize window to update display",
+		"description": "Explaining a small bug with experimental feature"
+	}
+}
